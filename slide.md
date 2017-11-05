@@ -22,7 +22,7 @@
 ### 足跡 軌跡 <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
-<!-- .slide: data-background-image="http://www.mafnet.jp/roman/fiji_forum/image_files/IMG_1608.jpg" -->
+<!-- .slide: data-background-image="assets/images/ashi.jpg" -->
 - 「先人が通った跡」
 - 自分自身の成長の足跡を残す
 
